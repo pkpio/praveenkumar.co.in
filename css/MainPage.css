@@ -1,0 +1,234 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../background.gif);
+	font-family:Verdana, Geneva, sans-serif;
+}
+#loadingStatus{
+	font-family: monospace;
+	position: absolute;
+	top: 378px;
+	left: 536px;
+	z-index: 1000;
+	visibility:visible;
+}
+#Main{
+	visibility:hidden;
+	position:absolute;
+	left:200px;
+	top:100px;
+}
+.MainLinkText{
+	font-weight:bold;
+	font: 14px sans-serif;
+	letter-spacing: 0;
+	color:#FFF;
+}
+#Profile{
+	background-repeat: no-repeat;
+	background-size: 100%;
+	-moz-background-size: 100%;
+	background-image:url(../logo.png);
+	width:230px;
+	height:258px;
+	position:absolute;
+	left:355px;
+	top:50px;
+	z-index:100;
+	text-align:center;
+}
+
+/*-----------Main Links starts ------*/
+
+#Home{
+	background-repeat: no-repeat;
+	background-size: 100%;
+	-moz-background-size: 100%;
+	background-image:url(../nav1.png);
+	width:145px;
+	height:157px;
+	position:absolute;
+	left: 316px;
+	top: -34px;
+}
+#ContactMe{
+	background-repeat: no-repeat;
+	background-size: 100%;
+	-moz-background-size: 100%;
+	background-image:url(../nav6.png);
+	width:145px;
+	height:157px;
+	position:absolute;
+	left: 478px;
+	top: -34px;
+}
+#AboutMe{
+	background-image:url(../nav2.png);
+	width:145px;
+	height:157px;
+	position:absolute;
+	left: 236px;
+	top: 110px;
+}
+#Blog{
+	background-image:url(../nav5.png);
+	width:145px;
+	height:157px;
+	position:absolute;
+	left: 562px;
+	top: 110px;
+}
+#Works{
+	background-image:url(../nav3.png);
+	width:145px;
+	height:157px;
+	position:absolute;
+	left: 320px;
+	top: 248px;
+}
+#Gallery{
+	background-image:url(../nav4.png);
+	width:145px;
+	height:157px;
+	position:absolute;
+	left: 478px;
+	top: 248px;
+}
+#Content{
+	display:none;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	-moz-background-size: 100%;
+	background-image:url(../bg_content.png);
+	position:absolute;
+	top:-35px;
+	left:240px;
+	width:562px;
+	height:606px;
+}
+#ContentText{
+	padding:80px 0px 0px 0px;
+	height:auto;
+}
+#ContentText h2{
+	font: 38px/48px 'Fredericka the Great', cursive;
+	letter-spacing: 0;
+	color:#3b3130;
+	padding: 0 0 24px 0;
+	color: #3E3434;
+	text-align: center;
+	text-shadow: 0 0 #3E3434;
+}
+#footer1{
+	position: relative;
+	left: 0;
+	width: 100%;
+	height: 64px;
+	top: 650px;
+}
+#Facebook{
+	padding:0px;
+	width:84px;
+	height:44px;
+	position:fixed;
+	top:20px;
+	right:0px;
+	-moz-box-shadow: 0px 0px 3px #000;
+	-webkit-box-shadow: 0px 0px 3px #000;
+	box-shadow: 0px 0px 3px #000;
+	overflow:hidden;
+}
+#GooglePlus{
+	padding:0px;
+	width:84px;
+	height:44px;
+	position:fixed;
+	top:70px;
+	right:0px;
+	-moz-box-shadow: 0px 0px 3px #000;
+	-webkit-box-shadow: 0px 0px 3px #000;
+	box-shadow: 0px 0px 3px #000;
+	overflow:hidden;
+}
+#Twitter{
+	padding:0px;
+	width:84px;
+	height:44px;
+	position:fixed;
+	top:120px;
+	right:0px;
+	-moz-box-shadow: 0px 0px 3px #000;
+	-webkit-box-shadow: 0px 0px 3px #000;
+	box-shadow: 0px 0px 3px #000;
+	overflow:hidden;
+}
+#siteHits{
+	padding:0px;
+	width:84px;
+	height:44px;
+	position:fixed;
+	top:170px;
+	right:0px;
+	-moz-box-shadow: 0px 0px 3px #000;
+	-webkit-box-shadow: 0px 0px 3px #000;
+	box-shadow: 0px 0px 3px #000;
+	overflow:hidden;
+}
+a{
+	text-decoration:none;
+}
+#footer1 a {
+	color: black;
+	
+}
+#footerText{
+	margin:14px 0px 5px 20px;
+	font-family: 'Short Stack', cursive;
+	font-size:14px;
+}
+.social{
+	float:right;
+}
+.social li {
+	float: left;
+	margin-right: 9px;
+	padding-right: 10px;
+	list-style:none;
+}
+.social{
+	position:absolute;
+	top:0px;
+	right:20px;
+}
+.credit li {
+	float: left;
+	margin-right: 9px;
+	padding-right: 10px;
+	list-style:none;
+}
+#error{	
+	position: absolute;
+	top: 200px;
+	left: 82px;
+	width:400px;
+}
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px #0076CD; 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #0076CD; 
+    -webkit-box-shadow: inset 0 0 6px #edc88e; 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: #0076CD; 
+}

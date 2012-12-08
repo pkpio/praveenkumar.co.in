@@ -1,0 +1,64 @@
+<script src="//maps.googleapis.com/maps/api/js?sensor=false"></script>
+ </script>
+<link rel="stylesheet" type="text/css" href="../css/fonts.css" />
+<style>
+body {
+	font-family: 'Short Stack', cursive;
+	font-size:12px;
+}
+</style>
+<script>
+      var geocoder;
+
+      
+      var destinationHome = new google.maps.LatLng(17.086234266227883, 81.95079652118534);//Home
+      var destinationCollege = new google.maps.LatLng(19.135721703998495, 72.90657162666321);//College
+	  var destinationLove = new google.maps.LatLng(12.358363838207895, 76.64225578308105);//Love
+//      var destinationA = "Stockholm, Sweden";
+//      var destinationB = new google.maps.LatLng(50.087692, 14.421150);
+ 
+      function calculateDistances(userOrigin) {
+		var origin = userOrigin
+        var service = new google.maps.DistanceMatrixService();
+        service.getDistanceMatrix(
+          {
+            origins: [origin],
+            destinations: [destinationHome, destinationCollege, destinationLove],
+            travelMode: google.maps.TravelMode.DRIVING,
+            unitSystem: google.maps.UnitSystem.METRIC,
+            avoidHighways: false,
+            avoidTolls: false
+          }, callback);
+      }
+
+      function callback(response, status) {
+        if (status != google.maps.DistanceMatrixStatus.OK) {
+          alert('Error while estimiating you distance! Please report this to Praveen, the error is: ' + status);
+        } else {
+          var origins = response.originAddresses;
+          var destinations = response.destinationAddresses;
+          var outputDiv = document.getElementById('outputDiv');
+          outputDiv.innerHTML = '';
+          //deleteOverlays();
+
+          for (var i = 0; i < origins.length; i++) {
+            var results = response.rows[i].elements;
+            //addMarker(origins[i], false);
+            for (var j = 0; j < results.length; j++) {
+             // addMarker(destinations[j], true);
+              outputDiv.innerHTML += results[j].distance.text + "-"
+                  + results[j].duration.text + "<br />";
+            }
+          }
+        }
+      }
+</script>
+<div id="inputs">
+<input type="text" size="15" onkeyup="calculateDistances(this.value);" style="padding:4px 4px; position:relative; left:85px; top:-10px; text-align:center; font-family: 'Short Stack', cursive; font-size:12px; color:#0076CD; border-width:1px; border-color:#0076CD; border-radius: 10px; width:220px;"  onclick="this.value='';" onblur="this.value=!this.value?'Place* name, Ex: IIT Bombay':this.value;" value="Place* name, Ex: IIT Bombay" />
+</div>
+<div style="float:left; width:150px;">
+My Sweet Home :<br/>
+My College :<br/>
+My favourite place :
+</div>
+<div id="outputDiv"></div>
