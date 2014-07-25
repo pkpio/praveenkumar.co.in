@@ -75,8 +75,6 @@ function isDownloadFile($file){
 </style>
 <h2>Downloads Listing</h2>
 <div id="downloads">
-<a href="http://home.iitb.ac.in/~sanath.kuppa/Android%20development%20kit%20complete.zip" target="_blank"><div id="downloadItem"><span class="fileName">Android development session</span><br/>
-<span class="fileSize">489.05 MB</span><span class="dateModified">23 January 2013 16:52</span></div></a>
 <?php
 	$dir = './../files/';
 	$i=0;
