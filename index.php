@@ -164,10 +164,8 @@ fclose($handle2);
 <div id="footerText">
 <ul class="credit">
     <li><a id="DevelopmentNote" class="MainLink" style="cursor: pointer;">Development Note</a></li>
-    <li> | </li> 
-    <li><a id="Downloads" class="MainLink" style="cursor: pointer;">Downloads</a></li>
-    <li> | </li> 
-    <li><a id="FakeMail" class="MainLink" style="cursor: pointer;">Fake Mailer</a></li></ul>
+    <li>  </li> 
+    <li><a id="Downloads" class="MainLink" style="cursor: pointer;">Downloads</a></li></ul>
 <ul class="social">
 					<li><a href="http://www.facebook.com/pamarru" target="_new">Facebook</a></li>
                     <li> | </li>
@@ -175,7 +173,6 @@ fclose($handle2);
                     <li> | </li>
 					<li class="last"><a href="https://plus.google.com/107979446898822449848/posts" target="_new">Google +</a></li>
 </ul>
-<p style="position: absolute;top: 25px;left: 40%;">Developed from scratch by : Praveen Kumar Pendyala</p>
 <script>
 /*Animated scroller*/
 
