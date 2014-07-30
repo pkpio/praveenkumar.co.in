@@ -1,5 +1,5 @@
 <?php
-if(!empty($_GET['accessCode'])&&$_GET['accessCode']=="showThyself"){
+//if(!empty($_GET['accessCode'])&&$_GET['accessCode']=="showThyself"){
 ?>
 <head>
 <link href='../praveen.ico' rel='icon' type='image/x-icon'/>
@@ -10,8 +10,9 @@ if(!empty($_GET['accessCode'])&&$_GET['accessCode']=="showThyself"){
 <p align="center" style="color:#0076CD; font:16px arial,sans-serif;">Praveen Kumar Pendyala's Resume</p>
 <iframe src="resume.pdf" height="95%" width="100%" frameborder="0">Loading resume..Please wait...</iframe>
 </body>
+
 <?php
-}else{
+//}else{
 ?>
 <head>
 <link href='../praveen.ico' rel='icon' type='image/x-icon'/>
@@ -49,5 +50,5 @@ if(!empty($_GET['accessCode'])&&$_GET['accessCode']=="showThyself"){
 </div>
 </body>
 <?php
-}
+//}
 ?>
