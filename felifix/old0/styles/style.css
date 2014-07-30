@@ -1,0 +1,132 @@
+body{
+	margin:0;
+	padding:0;
+	width: 100%;
+	height: 100%;
+	font-family: 'Droid Sans', Arial, sans-serif;
+	background-color: #E0E0E0;
+	overflow-x: hidden;
+	min-height: 500px;
+}
+#header{
+	width: 100%;
+	height: 150px;
+	background-color: #43b1d6;
+	-moz-box-shadow: 0px 0px 4px #000;
+	-webkit-box-shadow: 0px 0px 4px #000;
+	box-shadow: 0px 0px 4px #000;
+}
+#logoImg{
+	width: 170px;
+	position: relative;
+	top: 10px;
+	left: 4%;
+}
+#headerTitle{
+	position: relative;
+	top: -138px;
+	left: 22%;
+	font-size: 50px;
+	color: #FFF;
+}
+#content{
+	width:100%;
+	overflow-x:hidden;
+	min-height: 400px;	
+}
+.card{
+	background: #FFF;
+	min-height: 200px;
+	border-top: 1px solid #CCC;
+	border-left: 1px solid #CCC;
+	border-bottom: 2px solid #CCC;
+	border-right: 2px solid #CCC;
+	padding: 0px;
+	overflow: hidden;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	margin: 20px auto;
+	width: 750px;
+	position: relative;
+	height: 100px;
+}
+.card h1{
+	font-size: 24px;
+	font-weight: 100;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-bottom: solid 1px;
+	margin: 0px;
+	border-color: #43b1d6;
+}
+#loading{
+	margin: 100px 45%;
+	display: none;
+}
+#pswdField{
+	width: 30%;
+	padding: 5px;
+	color: #43b1d6;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	top: 0px;
+	left: 35%;
+}
+#qSelectBtn {
+	font-size: 12px;
+	position:relative;
+	left:5%;
+	top:6px;
+	background: #0b8fb5;
+	color: white;
+	font-weight: 500;
+	font-style: normal;
+	border: 0;
+	cursor: pointer;
+	width: 100px;
+	height: 30px;
+	appearance:none;
+	-webkit-appearance:none;
+}
+#qSelectBtn:hover {
+	background: #119dc4;
+	-moz-box-shadow: 0px 0px 6px #3F9BBF;
+	-webkit-box-shadow: 0px 0px 6px #3F9BBF;
+	box-shadow: 0px 0px 6px #3F9BBF;
+}
+#submitBtn {
+	font-size: 12px;
+	font-weight:bold;
+	position:relative;
+	left:42%;
+	top:20px;
+	background: #12a962;
+	color: white;
+	font-style: normal;
+	border: 0;
+	cursor: pointer;
+	width: 16%;
+	height: 30px;
+	appearance:none;
+	-webkit-appearance:none;
+}
+#submitBtn:hover {
+	background: #22c174;
+	-moz-box-shadow: 0px 0px 6px #3aea95;
+	-webkit-box-shadow: 0px 0px 6px #3aea95;
+	box-shadow: 0px 0px 6px #3aea95;
+}
+#qDiv{
+	position: relative;
+	left: 10%;
+	width: 80%;
+	padding: 10px 0px;
+}
+.card li{
+	padding-top: 10px;
+	word-spacing: 1px;
+	letter-spacing: 1px;
+}
