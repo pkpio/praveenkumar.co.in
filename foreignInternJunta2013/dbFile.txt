@@ -1,0 +1,696 @@
+{
+    "title": "Map IIT-B",
+    "center": {
+        "lat": "16.636192",
+        "lng": "8.437500"
+    },
+    "markers": [
+        {
+            "name": "Praveen Kumar Pendyala",
+            "lat": "29.715948171604378",
+            "lng": "-95.40389588530343",
+            "ldapid": "praveendath92",
+            "website": "Rice University, Houstan",
+            "phone": "882-882-9765",
+            "info": "8th May - 15th July"
+        },
+        {
+            "name": "Satwik Kottur",
+            "lat": "34.019357211047385",
+            "lng": "-118.28586122448723",
+            "ldapid": "praveendath92",
+            "website": "University of Southern California",
+            "phone": "8879006132",
+            "info": "20th May-30th July"
+        },
+        {
+            "name": "Raaz Dwivedi",
+            "lat": "37.42346593390034",
+            "lng": "-122.1689274018554",
+            "ldapid": "praveendath92",
+            "website": "Stanford, California",
+            "phone": "9619509136",
+            "info": "15th May - 12th July"
+        },
+        {
+            "name": "T Meghasyam",
+            "lat": "34.690083",
+            "lng": "135.195511",
+            "ldapid": "praveendath92",
+            "website": "Sysmex, Kobe",
+            "phone": "9820703063",
+            "info": "15 May - 10 July"
+        },
+        {
+            "name": "Akshay Shetty",
+            "lat": "52.153598089876056",
+            "lng": "-1.61766549999993",
+            "ldapid": "akshayshetty",
+            "website": "Cranfield University",
+            "phone": "9004030673",
+            "info": "05th May to 17th July"
+        },
+        {
+            "name": "S Krishna Savant",
+            "lat": "40.354772215005745",
+            "lng": "-80.00511667187493",
+            "ldapid": "sk.savant",
+            "website": "Carnegie Mellon University, Pittsburgh",
+            "phone": "9757033532",
+            "info": "May 12 - July 15"
+        },
+        {
+            "name": "Pankhuri",
+            "lat": "51.5017860416995",
+            "lng": "-1.26610299999993",
+            "ldapid": "pankhuri",
+            "website": "Univ. of Bristol",
+            "phone": "9820685184",
+            "info": "12th May-13th July"
+        },
+        {
+            "name": "Shomit Goyal",
+            "lat": "51.9373751564376",
+            "lng": "-101.46141549999993",
+            "ldapid": "shomit",
+            "website": "Ecole Polytechnique de Montral",
+            "phone": "9757418315",
+            "info": ""
+        },
+        {
+            "name": "Shubham Yadav",
+            "lat": "33.256904798867666",
+            "lng": "130.30616262500007",
+            "ldapid": "shubham_dscorpio",
+            "website": "Tanaka Holdings, Saga, Japan",
+            "phone": "9967565318",
+            "info": ""
+        },
+        {
+            "name": "Vishal",
+            "lat": "47.40446605417739",
+            "lng": "8.497395306274484",
+            "ldapid": "vishal_kansal",
+            "website": "ETH Zurich",
+            "phone": "9930246010",
+            "info": ""
+        },
+        {
+            "name": "Sayantam Datta",
+            "lat": "50.77108788256807",
+            "lng": "6.07825735156257",
+            "ldapid": "sayantam.datta",
+            "website": "FH Aachen",
+            "phone": "8976147362",
+            "info": ""
+        },
+        {
+            "name": "Ashwin Kachhara",
+            "lat": "35.68768203786691",
+            "lng": "139.7008464628907",
+            "ldapid": "ashwin.kachhara",
+            "website": "Sony / Tokyo",
+            "phone": "8879006186",
+            "info": "13 May - 12 July"
+        },
+        {
+            "name": "Kumar Goutam",
+            "lat": "42.448243150270294",
+            "lng": "-76.47949239666741",
+            "ldapid": "kumargoutam",
+            "website": "Cornell University, Ithaca, NY",
+            "phone": "+91-7208242960",
+            "info": ""
+        },
+        {
+            "name": "S Prasanna",
+            "lat": "50.8405160568603",
+            "lng": "12.09327200000007",
+            "ldapid": "110260021",
+            "website": "siegen university",
+            "phone": "09769531998",
+            "info": ""
+        },
+        {
+            "name": "Suman Rao",
+            "lat": "34.68727199160176",
+            "lng": "135.49170950000007",
+            "ldapid": "suman.rao",
+            "website": "Daikin, Shiga, near Osaka",
+            "phone": "9820849610",
+            "info": ""
+        },
+        {
+            "name": "Sparsh Chadha",
+            "lat": "54.58452518037202",
+            "lng": "-5.935077876403739",
+            "ldapid": "sparshchadha",
+            "website": "Queen's University, Belfast",
+            "phone": "9833724949",
+            "info": ""
+        },
+        {
+            "name": "Harshit Malik",
+            "lat": "51.71329853527743",
+            "lng": "8.74244192187507",
+            "ldapid": "harshit.malik",
+            "website": "University of Paderborn",
+            "phone": "9869459132",
+            "info": ""
+        },
+        {
+            "name": "Vighnesh Vatsal",
+            "lat": "50.77152212908867",
+            "lng": "6.0775707060547575",
+            "ldapid": "vighnesh.vatsal",
+            "website": "RWTH Aachen",
+            "phone": "9867170316",
+            "info": "2nd May to 15th July"
+        },
+        {
+            "name": "S S Kausik",
+            "lat": "49.42871664236476",
+            "lng": "7.73719289843757",
+            "ldapid": "sskausik08",
+            "website": "Fraunhofer ITWM, Kaiserslautern",
+            "phone": "919930291564",
+            "info": ""
+        },
+        {
+            "name": "Ayush Kanodia",
+            "lat": "48.20258387578788",
+            "lng": "16.37793996875007",
+            "ldapid": "kanodiaayush",
+            "website": "IST Austria, Vienna",
+            "phone": "8879382227",
+            "info": ""
+        },
+        {
+            "name": "Akshit",
+            "lat": "49.0770026874554",
+            "lng": "8.394398480102609",
+            "ldapid": "akshit05",
+            "website": "KIT, Karlsruhe",
+            "phone": "9969011483",
+            "info": "1 May - 16 July"
+        },
+        {
+            "name": "Sampath",
+            "lat": "45.4985138804746",
+            "lng": "-73.53416940624993",
+            "ldapid": "sampath.satti",
+            "website": "Ecole Polytechnique de Montreal",
+            "phone": "9004076975",
+            "info": ""
+        },
+        {
+            "name": "Nikunj Saunshi",
+            "lat": "47.66525962295048",
+            "lng": "-122.17339059765618",
+            "ldapid": "nikunj007",
+            "website": "Microsoft Research",
+            "phone": "9920488356",
+            "info": ""
+        },
+        {
+            "name": "Abhimanyu Dhariwal",
+            "lat": "51.309894833152384",
+            "lng": "9.47303274218757",
+            "ldapid": "abhimanyu_dhariwal",
+            "website": "Universitat Kassel, Kassel",
+            "phone": "9820849587",
+            "info": ""
+        },
+        {
+            "name": "P Sudarshan Prasanna",
+            "lat": "32.111498449109824",
+            "lng": "-81.23833200390618",
+            "ldapid": "psp_aero",
+            "website": "Gulfstream, Savannah, Georgia",
+            "phone": "9594148910",
+            "info": ""
+        },
+        {
+            "name": "Sridhar Kandimalla",
+            "lat": "43.60412452591439",
+            "lng": "-79.44481393749993",
+            "ldapid": "sridharkandimalla",
+            "website": "University of Toronto, Toronto",
+            "phone": "9820719636",
+            "info": ""
+        },
+        {
+            "name": "Siddharth Buddhiraju",
+            "lat": "48.99811564361196",
+            "lng": "12.10151174609382",
+            "ldapid": "siddharth.buddhiraju",
+            "website": "Universitat Regensburg",
+            "phone": "9987065342",
+            "info": "Munich/Regensburg, Germany"
+        },
+        {
+            "name": "C. Yeshwanth",
+            "lat": "52.274764078035275",
+            "lng": "10.51124075000007",
+            "ldapid": "yeshwanthc",
+            "website": "TU Braunschweig, Braunschweig",
+            "phone": "9769532063",
+            "info": ""
+        },
+        {
+            "name": "Yash Tambawala",
+            "lat": "51.28241604909082",
+            "lng": "-114.11766549999993",
+            "ldapid": "yash.tambawala",
+            "website": "University of Alberta",
+            "phone": "9833311423",
+            "info": ""
+        },
+        {
+            "name": "Mritunjay Prasad",
+            "lat": "40.443536747192304",
+            "lng": "-79.9429752534179",
+            "ldapid": "mritunjay",
+            "website": "Robotics Institute, Carnegie Mellon University",
+            "phone": "9172365121",
+            "info": ""
+        },
+        {
+            "name": "Deepali Adlakha",
+            "lat": "52.113135959320935",
+            "lng": "10.62110403125007",
+            "ldapid": "11d170020",
+            "website": "TU Braunschweig",
+            "phone": "7738487224",
+            "info": "Braunschweig, Germany"
+        },
+        {
+            "name": "Astha Agarwal",
+            "lat": "46.43015451499415",
+            "lng": "1.89795950000007",
+            "ldapid": "astha23",
+            "website": "INRIA Rhone-Alpes",
+            "phone": "+918879588766",
+            "info": ""
+        },
+        {
+            "name": "Anmol Garg",
+            "lat": "43.5882115332915",
+            "lng": "6.07276418750007",
+            "ldapid": "garganmol1993",
+            "website": "INRIA Sophia Antipolis",
+            "phone": "8879507283",
+            "info": ""
+        },
+        {
+            "name": "Aditya Choudhary",
+            "lat": "49.48941526749249",
+            "lng": "-115.17235299999993",
+            "ldapid": "aditya.choudhary",
+            "website": "University of Alberta",
+            "phone": "9004280422",
+            "info": ""
+        },
+        {
+            "name": "Rahul Singhal",
+            "lat": "52.26972209273355",
+            "lng": "10.51398733203132",
+            "ldapid": "rahulsinghal",
+            "website": "TU Braunschweig",
+            "phone": "9167277475",
+            "info": ""
+        },
+        {
+            "name": "Anurag Mukkara",
+            "lat": "42.48006008714759",
+            "lng": "-76.41258737499993",
+            "ldapid": "anurag6892",
+            "website": "Cornell University, Ithaca",
+            "phone": "9920136941",
+            "info": "5th May to 15th July"
+        },
+        {
+            "name": "Anshul Purohit",
+            "lat": "52.266360450585275",
+            "lng": "10.528406887695382",
+            "ldapid": "anshulp",
+            "website": "TU-Braunschweig",
+            "phone": "8879385750",
+            "info": ""
+        },
+        {
+            "name": "Rucha Kulkarni",
+            "lat": "55.677090299670354",
+            "lng": "12.51950719897468",
+            "ldapid": "123050087",
+            "website": "CRITT, Copenhagen Business School, Copenhagen",
+            "phone": "9167466214",
+            "info": ""
+        },
+        {
+            "name": "Advaith Vishwanath",
+            "lat": "35.44149758120713",
+            "lng": "139.36164358203132",
+            "ldapid": "advaith.vishwanath",
+            "website": "SONY, Atsugi, Japan",
+            "phone": "+919819924764",
+            "info": ""
+        },
+        {
+            "name": "Gaurav Sultania",
+            "lat": "51.5017860416995",
+            "lng": "-113.76610299999993",
+            "ldapid": "Mumbai",
+            "website": "India",
+            "phone": "9930200522",
+            "info": "University of Calgary"
+        },
+        {
+            "name": "Navin Chandak",
+            "lat": "1.2799544085581191",
+            "lng": "103.8502261931153",
+            "ldapid": "navinchandak",
+            "website": "National University of Singapore",
+            "phone": "9833436948",
+            "info": "None"
+        },
+        {
+            "name": "Ravi Gehlot",
+            "lat": "36.08224833619542",
+            "lng": "140.07575491015632",
+            "ldapid": "ravi_gehlot",
+            "website": "Tanaka Holdings",
+            "phone": "9004030416",
+            "info": "Tsukuba, Near Tokyo"
+        },
+        {
+            "name": "Rohan Gyani",
+            "lat": "52.00505721302276",
+            "lng": "10.66504934375007",
+            "ldapid": "110040001",
+            "website": "TU Braunschweig",
+            "phone": "8879006488",
+            "info": ""
+        },
+        {
+            "name": "Praneeth Naidu",
+            "lat": "53.06091077645227",
+            "lng": "8.79737356250007",
+            "ldapid": "svpraneethnaidu",
+            "website": "Universitat Bremen, Bremen, Germany",
+            "phone": "+917738487118",
+            "info": ""
+        },
+        {
+            "name": "Apeksha Bandi",
+            "lat": "36.4476465613148",
+            "lng": "-83.88329049999993",
+            "ldapid": "apeksha_bandi",
+            "website": "University of Michigan , Ann Arbor",
+            "phone": "8655599153",
+            "info": "<br>4th may - 10th july "
+        },
+        {
+            "name": "Sagar Jha",
+            "lat": "48.09996803202301",
+            "lng": "2.24952200000007",
+            "ldapid": "110100024",
+            "website": "LaBRI, University of Bordeaux, Bordeaux",
+            "phone": "9167769138",
+            "info": ""
+        },
+        {
+            "name": "Rohit Wakode",
+            "lat": "-37.83162994759131",
+            "lng": "145.00586965625007",
+            "ldapid": "rohitnwakode",
+            "website": "Monash University",
+            "phone": "9004769371",
+            "info": ""
+        },
+        {
+            "name": "Rohit Garg",
+            "lat": "25.019490225839064",
+            "lng": "121.52808645312507",
+            "ldapid": "rohitgarg",
+            "website": "National Taiwan University",
+            "phone": "9029809806",
+            "info": ""
+        },
+        {
+            "name": "Poorva",
+            "lat": "36.1643347627506",
+            "lng": "-82.82860299999993",
+            "ldapid": "poorva_shukla",
+            "website": "Gulfstream Aerospace, Savannah",
+            "phone": "9029809820",
+            "info": ""
+        },
+        {
+            "name": "Himani Singhal",
+            "lat": "46.248118751104286",
+            "lng": "1.89795950000007",
+            "ldapid": "himanisinghal",
+            "website": "INRIA, Grenoble",
+            "phone": "9405621818",
+            "info": ""
+        },
+        {
+            "name": "Jinit Bhatt",
+            "lat": "32.6854602207511",
+            "lng": "135.14014700000007",
+            "ldapid": "jinit.bhatt",
+            "website": "NEC Tokyo",
+            "phone": "9930701504",
+            "info": ""
+        },
+        {
+            "name": "Deeksha Sinha",
+            "lat": "38.19487249622131",
+            "lng": "140.85303762500007",
+            "ldapid": "deekshasinha",
+            "website": "India",
+            "phone": "9769030874",
+            "info": "Tohoku University"
+        },
+        {
+            "name": "Siddhant Mittal",
+            "lat": "49.94402829410266",
+            "lng": "3.65577200000007",
+            "ldapid": "siddhant_mittal",
+            "website": "UCL, Belgium",
+            "phone": "9167467405",
+            "info": ""
+        },
+        {
+            "name": "Prateek Kushwaha",
+            "lat": "34.572577197342426",
+            "lng": "135.4827831083985",
+            "ldapid": "prateek_kushwaha",
+            "website": "Daikin Industries",
+            "phone": "9619511565",
+            "info": ""
+        },
+        {
+            "name": "Priyanshu Deshraju",
+            "lat": "54.46354240657482",
+            "lng": "-113.06297799999993",
+            "ldapid": "10D170013",
+            "website": "University of Alberta",
+            "phone": "09869079482",
+            "info": "Energy Planning and GHG mitigations"
+        },
+        {
+            "name": "Yash Bhargava",
+            "lat": "53.42906087342165",
+            "lng": "-113.67821237499993",
+            "ldapid": "yash.bhargava",
+            "website": "University of Alberta",
+            "phone": "9833318564",
+            "info": ""
+        },
+        {
+            "name": "Palash Kulkarni",
+            "lat": "34.47017875564413",
+            "lng": "133.37134817187507",
+            "ldapid": "palashkulkarni",
+            "website": "JFE Steel/ Fukuyama",
+            "phone": "+919004280148",
+            "info": ""
+        },
+        {
+            "name": "shaz ali",
+            "lat": "34.944332590436254",
+            "lng": "137.16712453906257",
+            "ldapid": "111030030",
+            "website": "okazaki",
+            "phone": "9833371207",
+            "info": ""
+        },
+        {
+            "name": "Nikhil Gupta",
+            "lat": "51.5017860416995",
+            "lng": "-113.41454049999993",
+            "ldapid": "nikhilgupta",
+            "website": "University of Alberta",
+            "phone": "9004192315",
+            "info": ""
+        },
+        {
+            "name": "Gaurav Pooniwala",
+            "lat": "51.744770390702385",
+            "lng": "-1.1294605439452425",
+            "ldapid": "gtpooniwala",
+            "website": "Oxford-Brookes University, Wheatley Campus",
+            "phone": "9769115478",
+            "info": ""
+        },
+        {
+            "name": "Pranjal Jain",
+            "lat": "40.338025880459526",
+            "lng": "-79.99413034374993",
+            "ldapid": "pranjaljain",
+            "website": "Carnegie Mellon University",
+            "phone": "+919820718025",
+            "info": ""
+        },
+        {
+            "name": "Saurabh Mogre",
+            "lat": "36.12635272832004",
+            "lng": "140.10047414843757",
+            "ldapid": "saurabhmogre",
+            "website": "India",
+            "phone": "9833811367",
+            "info": "AIST,<br>Tsukuba"
+        },
+        {
+            "name": "Digvijay",
+            "lat": "51.76772251164671",
+            "lng": "-1.26060983593743",
+            "ldapid": "digvijaybb40",
+            "website": "Oxford Brookes",
+            "phone": "9021145954",
+            "info": ""
+        },
+        {
+            "name": "Pawan Nagwani",
+            "lat": "22.339738993560236",
+            "lng": "114.26063039843757",
+            "ldapid": "pawan_nagwani",
+            "website": "India",
+            "phone": "9930841891",
+            "info": ""
+        },
+        {
+            "name": "Rugved Likhite",
+            "lat": "40.76102719689676",
+            "lng": "-111.83353921826165",
+            "ldapid": "rugvedlikhite",
+            "website": "University of Utah",
+            "phone": "09730873742",
+            "info": "13th May - 13th July."
+        },
+        {
+            "name": "Nilesh Kulkarni",
+            "lat": "53.84593374566225",
+            "lng": "10.68702200000007",
+            "ldapid": "nilesh_kulkarni",
+            "website": "T Braunschweig ",
+            "phone": "9221811762",
+            "info": ""
+        },
+        {
+            "name": "Suryansh Shrivastava",
+            "lat": "47.256735314283",
+            "lng": "11.40113332812507",
+            "ldapid": "suryansh1991",
+            "website": "tirol innsbruck",
+            "phone": "",
+            "info": "austria"
+        },
+        {
+            "name": "Kshitiz Swaroop",
+            "lat": "36.1643347633306",
+            "lng": "-82.82860299222993",
+            "ldapid": "100010026",
+            "website": "Gulfstream",
+            "phone": "",
+            "info": ""
+        },
+        {
+            "name": "Rajesh Veeranki",
+            "lat": "51.749553044594585",
+            "lng": "-1.1613895600585238",
+            "ldapid": "rajesh.veeranki",
+            "website": "India",
+            "phone": "8125804584",
+            "info": ""
+        },
+        {
+            "name": "Kanishk Parihar",
+            "lat": "37.48517983463592",
+            "lng": "-122.14892885144036",
+            "ldapid": "kanishk41092",
+            "website": "Facebook",
+            "phone": "",
+            "info": ""
+        },
+        {
+            "name": "Jay Gandhi",
+            "lat": "52.3687758996884",
+            "lng": "9.63233450000007",
+            "ldapid": "jay.gandhi",
+            "website": "University of Paderborn",
+            "phone": "",
+            "info": ""
+        },
+        {
+            "name": "Mahesh Avasare",
+            "lat": "37.8770071734169",
+            "lng": "-122.24651834423821",
+            "ldapid": "mahesh.avasare",
+            "website": "LBNL, Berkeley",
+            "phone": "8652116605",
+            "info": ""
+        },
+        {
+            "name": "Rishabh Banthia",
+            "lat": "49.74565874672243",
+            "lng": "6.07276418750007",
+            "ldapid": "r_banthia",
+            "website": "Luxembourg",
+            "phone": "+91-9619254306",
+            "info": ""
+        },
+        {
+            "name": "Manju Kaushal",
+            "lat": "39.73239212308206",
+            "lng": "-86.16844674999993",
+            "ldapid": "manju_kaushal",
+            "website": "Indiana-Purdue University",
+            "phone": "9769664734",
+            "info": "Indianapolis, USA"
+        },
+        {
+            "name": "Sarang Minhas",
+            "lat": "38.73465567495606",
+            "lng": "-9.138493747070243",
+            "ldapid": "sarangminhas",
+            "website": "",
+            "phone": "",
+            "info": ""
+        },{"name" : "Raghav Jaithaliya",
+"lat" : "39.63093069432386","lng" : "-86.16844674999993","ldapid" : "10d020002","website" : "IUPUI, Indianapolis","phone" : "9820727021","info" : ""},{"name" : "Yash Tambawala",
+"lat" : "53.514071739910804","lng" : "-113.50243112499993","ldapid" : "yash.tambawala","website" : "University of Alberta","phone" : "9833311423","info" : "Contact me at- yash.tambawala@gmail.com"},{"name" : "Archak Mittal",
+"lat" : "52.3687758996884","lng" : "9.73670461718757","ldapid" : "archak","website" : "LUH / Hannover, Germany","phone" : "9004031005","info" : ""},{"name" : "Tejas Chaudhari",
+"lat" : "45.50429959365012","lng" : "-73.55677016406247","ldapid" : "tejaschaudhari","website" : "INRS, Montreal","phone" : "+919665699681","info" : ""},{"name" : "Palash Badjatya",
+"lat" : "22.7456142255136","lng" : "114.39795950000007","ldapid" : "palash.b","website" : "The Hong Kong University of Science and Technology","phone" : "8149420639","info" : ""},{"name" : "Shubham Mehta",
+"lat" : "49.36078801813531","lng" : "7.72071340625007","ldapid" : "shubham_mehta","website" : "TU Kaiserslautern","phone" : "8879323079","info" : ""},{"name" : "Mohit Chachada",
+"lat" : "23.43409507805996","lng" : "120.55030325000007","ldapid" : "mohitchachada","website" : "AIM-HI, CCU, Chiayi County","phone" : "9975762998","info" : "12th May-14th July"},{"name" : "Venktesh Pandey",
+"lat" : "1.274805847047742","lng" : "103.85108450000007","ldapid" : "venktesh_pandey","website" : "India","phone" : "9820693309","info" : "CREATE tower, NUS campus"},{"name" : "Apeksha Bandi",
+"lat" : "42.277168439671854","lng" : "-83.72948190624993","ldapid" : "apeksha_bandi","website" : "University of Michigan , Ann Arbor","phone" : "8655599153","info" : ""},{"name" : "Abhishek Khanna",
+"lat" : "42.33582071694003","lng" : "-71.16936227734368","ldapid" : "khanna.abhishek","website" : "Boston College","phone" : "","info" : "Chestnut Hill, Boston"},{"name" : "Kunal Mehta",
+"lat" : "35.60021473624084","lng" : "140.10596731250007","ldapid" : "kunalmehta603","website" : "JFE Steel","phone" : "9769433760","info" : ""},{"name" : "Sabareesh Nikhil",
+"lat" : "42.36150156001117","lng" : "-71.09160101468842","ldapid" : "sabareesh.nikhil","website" : "MIT, Cambridge","phone" : "+919820723036","info" : ""},{"name" : "Srimukh Prasad",
+"lat" : "19.13461","lng" : "72.91358450000007","ldapid" : "srimukh.prasad","website" : "Duke University, Durham, NC","phone" : "9196384412","info" : ""},{"name" : "Srimukh Prasad",
+"lat" : "35.9778526938173","lng" : "-78.90648385937493","ldapid" : "srimukh.prasad","website" : "Duke University, Durham, NC","phone" : "9196384412","info" : ""}]}

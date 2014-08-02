@@ -1,0 +1,4 @@
+[22-Jan-2014 17:11:35 UTC] PHP Fatal error:  Call to undefined function ldap_connect() in /home/praveendath92/public_html/foreignInternJunta2013/saveMarker.php on line 20
+[09-Feb-2014 23:31:49 UTC] PHP Fatal error:  Call to undefined function ldap_connect() in /home/praveendath92/public_html/foreignInternJunta2013/saveMarker.php on line 20
+[19-Feb-2014 08:37:33 UTC] PHP Fatal error:  Call to undefined function ldap_connect() in /home/praveendath92/public_html/foreignInternJunta2013/saveMarker.php on line 20
+[26-Feb-2014 18:23:18 UTC] PHP Fatal error:  Call to undefined function ldap_connect() in /home/praveendath92/public_html/foreignInternJunta2013/saveMarker.php on line 20
