@@ -1,0 +1,1 @@
+[07-Feb-2014 23:20:16 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/praveendath92/public_html/iitblit/include/database.php on line 15

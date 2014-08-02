@@ -1,0 +1,92 @@
+{
+    "section0": [
+        {
+            "uname": "section1_name1",
+            "score": "11"
+        },
+        {
+            "uname": "section1_name2",
+            "score": "12"
+        },
+        {
+            "uname": "section1_name3",
+            "score": "13"
+        },
+        {
+            "uname": "section1_name4",
+            "score": "14"
+        }
+    ],
+    "section1": [
+        {
+            "uname": "section2_name1",
+            "score": "21"
+        },
+        {
+            "uname": "section2_name2",
+            "score": "22"
+        },
+        {
+            "uname": "section2_name3",
+            "score": "23"
+        },
+        {
+            "uname": "section2_name4",
+            "score": "24"
+        }
+    ],
+    "section2": [
+        {
+            "uname": "section3_name1",
+            "score": "31"
+        },
+        {
+            "uname": "section3_name2",
+            "score": "32"
+        },
+        {
+            "uname": "section3_name3",
+            "score": "33"
+        },
+        {
+            "uname": "section3_name4",
+            "score": "34"
+        }
+    ],
+    "section3": [
+        {
+            "uname": "section4_name1",
+            "score": "41"
+        },
+        {
+            "uname": "section4_name2",
+            "score": "42"
+        },
+        {
+            "uname": "section4_name3",
+            "score": "43"
+        },
+        {
+            "uname": "section4_name4",
+            "score": "44"
+        }
+    ],
+    "section4": [
+        {
+            "uname": "section5_name1",
+            "score": "51"
+        },
+        {
+            "uname": "section5_name2",
+            "score": "52"
+        },
+        {
+            "uname": "section5_name3",
+            "score": "53"
+        },
+        {
+            "uname": "section5_name4",
+            "score": "54"
+        }
+    ]
+}
