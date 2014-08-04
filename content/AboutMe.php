@@ -112,9 +112,7 @@ I enjoy my time at,
 Here is a list of different versions of my Resume<br />
 <span id="AdditionalDescription">If download didn't work, right click on the link and select 'Save link as'</span>
 <ul>
-<li><a onclick="alert(You don't sufficient permissions to do this!);">Full Resume</a></li>
-<li><a href="http://home.iitb.ac.in/~praveendath92/resume/tech.pdf" target="DownloadFrame">Two Page Resume (Used for IITB PTcell)</a></li>
-<li><a href="http://home.iitb.ac.in/~praveendath92/resume/onepage.pdf" target="DownloadFrame">One Page Resume (Used for IITB PTcell)</a></li></ul>
+<li><a href="http://praveenkumar.co.in/resume/" target="_blank">Full Resume (latest)</a></li></ul>
 <iframe name="DownloadFrame" frameborder="0" width="0" height="0" src=""></iframe>
 
 </div>
@@ -126,10 +124,5 @@ I don't say I blog regularly. But, I do it fairly often. Umm...say, an average o
 Check out <a href="http://praveendath92.blogspot.in" target="_new" id="SubHeading" style="font-size:16px;">My Blog</a>, Who knows? It might interest you! 
 </div>
 
-<div id="MorePersonalStuff"><br>
-<h3 id="SubHeading">More into My personal stuff<a href="javascript:void(0);" class="List"><span id="AdditionalDescription"> (<u>Back to list</u>)</span></a></h3>
-Honestly, I don't know how to keep things personal. If you are someone around me then I'm sure you will nothing new here :P<br />
-When it comes to more personal stuff its the relationships comes first, okiee..if not for all...agree in a normal persons case :P. By now you might have guessed it, that I must have been into a relationship. I can't say you are wrong! I had a relationship and I still believe in them! and I luv to have a long term relationship!
-</div>
 
 </div>
